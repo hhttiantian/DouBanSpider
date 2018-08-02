@@ -5,22 +5,7 @@ Python所写，豆瓣读书的爬虫，方便大家搜罗各种美美书！
 
 ### 更新
 
-最近爬下了豆瓣所有的图书信息（3088633本，2138386KB），并做了一个界面方面与数据库交互来搜罗好书。 注：这里的代码不是爬下所有书籍所用的代码，仅供参考。有机会的时候再公开代码和爬下的所有数据。
-
-
-交互界面截图示例：
-
-![Aaron Swartz](https://github.com/lanbing510/DouBanSpider/raw/master/screenshots/sobook.jpg)
-
-查询结果截图示例：
-
-![Aaron Swartz](https://github.com/lanbing510/DouBanSpider/raw/master/screenshots/result.jpg)
-
-
-### 更新
-
-最近爬书发现豆瓣的页面规则发生了变化，导致不能爬到评价人数，由此对代码进行了相应的更新，并爬了一些新的数据(并不全)。
-
+增加了python3的版本
 
 
 ### 实现功能
@@ -40,10 +25,6 @@ Python所写，豆瓣读书的爬虫，方便大家搜罗各种美美书！
 ![Aaron Swartz](https://github.com/lanbing510/DouBanSpider/raw/master/screenshots/douban.jpg)
 
 
-代码刚写一小时，更多功能有待增加
-
-
-声明：受@plough同学启发，再其代码基础上进行的创作，感谢@plough
 
 
 
